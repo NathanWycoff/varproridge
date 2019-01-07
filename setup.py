@@ -9,6 +9,6 @@ setup(name='varproridge',
       license='Apache',
       packages=['varproridge'],
       install_requires=[
-          'joblib', 'sympy', 'numpy', 'scipy', 'copy', 'pandas', 'pymanopt'
+          'joblib', 'sympy', 'numpy', 'scipy', 'pandas'
       ],
       zip_safe=False)
